@@ -2,4 +2,6 @@
 
 An automated alphabet racer with basic syntax
 
-node index {{playerNumber}} {{trackLength}}
+<!--  Hit Your Terminal -->
+
+>>>>>>>>>>>  node index {{playerNumber}} {{trackLength}}
